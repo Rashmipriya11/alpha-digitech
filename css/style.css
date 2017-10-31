@@ -189,7 +189,7 @@ a:focus, a:hover {
 }
 .top-nav ul li a{
 	color:#fff !important;
-    font-size: 1.8em;
+    font-size: 1.3em;
     margin: 0;
     text-decoration: none;
     padding: 0;
@@ -1673,7 +1673,7 @@ textarea{
 		font-size: .9em;
 	}
 	.rw-sentence span {
-		font-size: 45px;
+		
 	}
 	section#subscribe {
 		margin-bottom: 2em;
